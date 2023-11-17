@@ -1,6 +1,10 @@
 # analog-verse
+Exploring the Unconnected: Diverse Reflections on a World Without Digital Ties.
+Inspire Questions, Creative Rethinking and Possibilities: Contemplating Life Without Internet and Electricity – A Journey Through Traditional and Emerging Communication Alternative
 
 What if there were no internet access?
+
+Well, the obvious is that you wouldn't be able to read this page unless you cloned the repo at some point. I still do on this Nov 17th, so I will keep writing down my thoughts on this topic. 
 
 Could you continue living your life as you do today? 
 
